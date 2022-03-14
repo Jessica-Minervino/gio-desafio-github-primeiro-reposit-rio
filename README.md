@@ -1,2 +1,2 @@
-# gio-desafio-github-primeiro-reposit-rio
-Desafio de projeto sobre Git/GitHub
+# Repo  do desafio  de projeto sobre Git/GitHub
+ Desafio de projeto sobre Git/GitHub
